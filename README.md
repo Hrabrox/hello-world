@@ -19,6 +19,7 @@ There's a few tasks that need to be completed:
 - [ ] this is an incomplete item
 
 Testing making a table:
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
